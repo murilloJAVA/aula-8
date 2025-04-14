@@ -36,6 +36,3 @@ print(f"{"Linux":<25}{Votos[2]:<8}{Votos[0]/total*100:<6.2f}")
 print(f"{"Netware":<25}{Votos[3]:<8}{Votos[0]/total*100:<6.2f}")
 print(f"{"Mac OS":<25}{Votos[4]:<8}{Votos[0]/total*100:<6.2f}")
 print(f"{"Outro":<25}{Votos[5]:<8}{Votos[0]/total*100:<6.2f}")
-
-
-
